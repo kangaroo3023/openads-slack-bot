@@ -40,6 +40,7 @@
     "careet_1930",
     "careet_1931",
     "careet_1932",
+    "careet_1934",
     "openads_19456",
     "openads_19461",
     "openads_19471",
@@ -151,6 +152,7 @@
     "openads_19668",
     "openads_19669",
     "openads_19671",
+    "openads_19673",
     "openads_19674",
     "openads_19675",
     "openads_19676",
@@ -165,6 +167,7 @@
     "openads_19687",
     "openads_19688",
     "openads_19689",
+    "openads_19690",
     "openads_19691",
     "openads_19692",
     "openads_19693",
@@ -210,7 +213,9 @@
     "openads_19756",
     "openads_19759",
     "openads_19760",
-    "openads_19761"
+    "openads_19761",
+    "openads_19768",
+    "openads_19773"
   ],
-  "last_updated": "2026-06-23T01:56:46.479956"
+  "last_updated": "2026-06-24T01:56:30.841600"
 }
