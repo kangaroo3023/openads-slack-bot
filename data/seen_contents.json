@@ -48,6 +48,7 @@
     "careet_1938",
     "careet_1939",
     "careet_1941",
+    "careet_1942",
     "openads_19456",
     "openads_19461",
     "openads_19471",
@@ -270,7 +271,11 @@
     "openads_19839",
     "openads_19840",
     "openads_19841",
-    "openads_19843"
+    "openads_19842",
+    "openads_19843",
+    "openads_19849",
+    "openads_19850",
+    "openads_19859"
   ],
-  "last_updated": "2026-07-04T01:29:04.470581"
+  "last_updated": "2026-07-06T01:51:04.227685"
 }
