@@ -437,6 +437,7 @@
     "openads_20023",
     "openads_20024",
     "openads_20025",
+    "openads_20026",
     "openads_20047",
     "openads_20048",
     "openads_20049",
@@ -463,7 +464,9 @@
     "openads_20088",
     "openads_20091",
     "openads_20092",
-    "openads_20093"
+    "openads_20093",
+    "openads_20095",
+    "openads_20096"
   ],
-  "last_updated": "2026-08-07T01:57:32.557834"
+  "last_updated": "2026-08-07T07:35:33.562865"
 }
